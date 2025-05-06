@@ -16,4 +16,9 @@ public class Exp1
 	{
 		System.out.println("M3 method");
 	}
+	
+	public void m4()
+	{
+		System.out.println("M4 method");
+	}
 }
