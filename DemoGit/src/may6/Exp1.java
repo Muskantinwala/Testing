@@ -21,4 +21,13 @@ public class Exp1
 	{
 		System.out.println("M4 method");
 	}
+	
+	public static void main(String[] args)
+	{
+		Exp1 obj = new Exp1();
+		obj.m1();
+		obj.m2();
+		obj.m3();
+		obj.m4();
+	}
 }
